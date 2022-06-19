@@ -1,5 +1,7 @@
 # Omni-Seg
 
-A repo for semantic segmentatiojn on omnidirectional images.
+Semantic segmentation on omnidirectional images.
 
-**AAAI 2022** Abstract DDL: 30, Aug // Paper DDl: 8, Sep
+Conf | Abstract DDL | Paper DDL |
+|:---:|:---:|:---:|
+|**AAAI 2022** | 30, Aug | 08, Sep|
