@@ -1,21 +1,4 @@
-**3Dsemantics** [code](http://3dsemantics.stanford.edu/)
-----------
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/49426295/174465334-3f4a159d-3deb-4470-aade-d0775e0a4846.png">
-
-
-----------
-
-**SYNTHIA Dataset**
-----------
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/49426295/174464623-0e397c89-64ae-488f-b762-319f59ea98d4.png">
-(CVPR 2016 The synthia dataset: A large collection of synthetic images for semantic segmentation of urban scenes)
-
-----------
-
-**Reference Repo** 
-
-[PASS code](https://github.com/elnino9ykl/PASS)
-----------
+**Paper List**
 
 |  Year   |Pub |  Paper  | Highlight | Dataset |
 |  :----:   | :----: | :---- | :---- | :---- |
@@ -37,3 +20,4 @@
 | 2019 | ICCV | [Orientation-Aware Semantic Segmentation on Icosahedron Spheres](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Orientation-Aware_Semantic_Segmentation_on_Icosahedron_Spheres_ICCV_2019_paper.pdf) | Unfolded icosahedron mesh | [2D3DS dataset](https://arxiv.org/pdf/1702.01105.pdf) / SYNTHIA| 
 | 2017 | CVPR | [The synthia dataset: A large collection of synthetic images for semantic segmentation of urban scenes. ](https://openaccess.thecvf.com/content_cvpr_2017/papers/Pohlen_Full-Resolution_Residual_Networks_CVPR_2017_paper.pdf)| | Cityscapes |
 | 2018 | CVPR | [DenseASPP for Semantic Segmentation in Street Scenes](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)|| Cityscapes |
+
