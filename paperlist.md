@@ -19,16 +19,24 @@
 | 2019 | SPIE | [Semantic Segmentation of Panoramic Images Using a Synthetic Dataset](https://arxiv.org/pdf/1909.00532.pdf) | | SYNTHIA |
 | 2019 | IEEE | [Restricted Deformable Convolution based Road Scene Semantic Segmentation Using Surround View Cameras](https://arxiv.org/pdf/1801.00708.pdf)| Restricted Deformable Convolution| |
 | 2019 | ICLR | [SPHERICAL CNNS ON UNSTRUCTURED GRIDS](https://arxiv.org/pdf/1901.02039.pdf) | MeshConv operator| |
+| 2019 | IV | [Can we PASS beyond the field of view? Panoramic annular semantic segmentation for real-world surrounding perception](https://robesafe.es/personal/bergasa/papers/IV2019_Kailun.pdf)| | |
+| 2019 | IV | [Bridging the day and night domain gap for semantic segmentation](https://www.researchgate.net/profile/Kailun-Yang/publication/335497975_Bridging_the_Day_and_Night_Domain_Gap_for_Semantic_Segmentation/links/5d6b9a42458515088604c67c/Bridging-the-Day-and-Night-Domain-Gap-for-Semantic-Segmentation.pdf)| | |
 | 2020 | IEEE | [PASS: Panoramic Annular Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835049)| | PASS / VISTAS |
+| 2020 | IEEE | [Omnisupervised omnidirectional semantic segmentation](https://www.researchgate.net/profile/Kailun-Yang/publication/345419595_Omnisupervised_Omnidirectional_Semantic_Segmentation/links/609daf06458515c2658cb643/Omnisupervised-Omnidirectional-Semantic-Segmentation.pdf)| | | 
 | 2020 | ICRA | [The OmniScape Dataset](http://honeine.fr/paul/publi/20.icra.pdf) | Presents a framework for generating omnidirectional images using images that are acquired from a virtual environment |
 | 2020 | CVPR | [Tangent Images for Mitigating Spherical Distortion](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eder_Tangent_Images_for_Mitigating_Spherical_Distortion_CVPR_2020_paper.pdf) | Tangent images|
 | 2021 | IV | [Panoramic Panoptic Segmentation: Towards Complete Surrounding Understanding via Unsupervised Contrastive Learning](https://arxiv.org/pdf/2103.00868.pdf) | Unsupervised Contrastive learning / [WildPPS](https://github.com/alexanderjaus/PPS)| WildPPS |
 | 2021 | IEEE | [Densepass: Dense panoramic semantic segmentation via unsupervised domain adaptation with attention-augmented context exchange](https://arxiv.org/pdf/2108.06383.pdf) | DensePass Dataset| Cityscapes | 
+| 2021 | TIP | [Is context-aware CNN ready for the surroundings? Panoramic semantic segmentation in the wild](http://www.yangkailun.com/publications/tip2021_kailun.pdf)| | |
 | 2021 | ICCV | [PIT: Position-Invariant Transform for Cross-FoV Domain Adaptation](https://openaccess.thecvf.com/content/ICCV2021/papers/Gu_PIT_Position-Invariant_Transform_for_Cross-FoV_Domain_Adaptation_ICCV_2021_paper.pdf)| Position-Invariant Transform [code](https://github.com/sheepooo/)| |
+| 2021 | CVPR | [Capturing omni-range context for omnidirectional segmentation](http://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Capturing_Omni-Range_Context_for_Omnidirectional_Segmentation_CVPR_2021_paper.pdf)| | |
 | 2021 | CVPR | [HoHoNet: 360 Indoor Holistic Understanding with Latent Horizontal Features](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_HoHoNet_360_Indoor_Holistic_Understanding_With_Latent_Horizontal_Features_CVPR_2021_paper.pdf)| | |  
-| 2021 | TPAMI | [Spherical DNNs and their applications in 360◦ images and videos]()
+| 2021 | TPAMI | [Spherical DNNs and their applications in 360◦ images and videos](https://ieeexplore.ieee.org/abstract/document/9497715/)|||
+| 2021 | IEEE | [Transfer beyond the field of view: Dense panoramic semantic segmentation via unsupervised domain adaptation](https://arxiv.org/pdf/2110.11062)| | |
 | 2022 | Scientific Reprots| [A comparative study of semantic segmentation of omnidirectional images from a motorcycle perspective](https://www.nature.com/articles/s41598-022-08466-9) | Survey |
 | 2022 | SIVP | [Semantic segmentation of outdoor panoramic images](https://www.researchgate.net/profile/Yalin-Bastanlar/publication/353911140_Semantic_segmentation_of_outdoor_panoramic_images/links/622a7a993c53d31ba4b90870/Semantic-segmentation-of-outdoor-panoramic-images.pdf)|||
+| 2022 | Arxiv | [Review on panoramic imaging and its applications in scene understanding](https://arxiv.org/pdf/2205.05570)| | |
+| 2022 | Arxiv | [Transformer-based knowledge distillation for efficient semantic segmentation of road-driving scenes](https://arxiv.org/pdf/2202.13393)| | |
 
 
 *Domain Adaptation of Semantic Segmentation*
