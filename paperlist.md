@@ -37,6 +37,7 @@
 | 2022 | SIVP | [Semantic segmentation of outdoor panoramic images](https://www.researchgate.net/profile/Yalin-Bastanlar/publication/353911140_Semantic_segmentation_of_outdoor_panoramic_images/links/622a7a993c53d31ba4b90870/Semantic-segmentation-of-outdoor-panoramic-images.pdf)|||
 | 2022 | Arxiv | [Review on panoramic imaging and its applications in scene understanding](https://arxiv.org/pdf/2205.05570)| | |
 | 2022 | Arxiv | [Transformer-based knowledge distillation for efficient semantic segmentation of road-driving scenes](https://arxiv.org/pdf/2202.13393)| | |
+| 2022 | CVPR | [Bending Reality: Distortion-Aware Transformers for Adapting to Panoramic Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf)| | |
 
 
 *Domain Adaptation of Semantic Segmentation*
