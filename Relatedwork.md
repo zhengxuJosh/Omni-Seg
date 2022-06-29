@@ -12,5 +12,6 @@
 | 2019 | ICLR | [Spherical CNNs](https://arxiv.org/pdf/1901.02039.pdf) | Sup-Omni seg | Perform convolution on unstructured grids using parameterized differential operators as convolution kernels|
 | 2019 | IV | [Method](https://www.researchgate.net/profile/Kailun-Yang/publication/335497975_Bridging_the_Day_and_Night_Domain_Gap_for_Semantic_Segmentation/links/5d6b9a42458515088604c67c/Bridging-the-Day-and-Night-Domain-Gap-for-Semantic-Segmentation.pdf) | DA-Seg(Day-Night)| GAN |
 | 2020 | TITS | [PASS](https://ieeexplore.ieee.org/document/8835049) | Sup-Omni seg | Fuse the feature maps of differnent segments to fulfill panoramas | | | 2020 | TITS | [Omnisupervised](https://www.researchgate.net/profile/Kailun-Yang/publication/345419595_Omnisupervised_Omnidirectional_Semantic_Segmentation/links/609daf06458515c2658cb643/Omnisupervised-Omnidirectional-Semantic-Segmentation.pdf)| **UDA-Omni seg** | An omnisupervised learning framework for efficient CNN | 
-| 2020 | CVPR | [Tangent](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eder_Tangent_Images_for_Mitigating_Spherical_Distortion_CVPR_2020_paper.pdf) | a spherical
+| 2020 | CVPR | 
+[Tangent](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eder_Tangent_Images_for_Mitigating_Spherical_Distortion_CVPR_2020_paper.pdf) | a spherical
 image representation | render a spherical image to a set of distortion-mitigated, locally-planar image grids tangent to a subdivided icosahedron |
