@@ -1,7 +1,6 @@
 *Panoramicmic images semantic segmentation*
 | Year | Pub |  Method  | Task | Details / Motivation |
-| :----: | :----: | :----: | :----: | :----: | 
-| 2022 | CVPR | [CCDistill](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_Cross-Domain_Correlation_Distillation_for_Unsupervised_Domain_Adaptation_in_Nighttime_Semantic_CVPR_2022_paper.pdf) | UDA-Nighttime Semantic Seg | Cope with the inherent difference between datasets caused by the camera equipment and the urban style | 
+| :----: | :----: | :----: | :----: | :----: |  
 | 2018 | ECCV | [DIstConv](https://openaccess.thecvf.com/content_ECCV_2018/papers/Keisuke_Tateno_Distortion-Aware_Convolutional_Filters_ECCV_2018_paper.pdf) | Sup-Semantic Seg / Depth Estimation | Specifically developed distortion-aware deformable convolution filter|
 | 2018 | CVPR | [DenseASPP](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf) | Sup-Semantic Seg | Densely connected Atrous Spatial Pyramid Pooling for driving scenes |
 | 2019 | ICCV | [HexRUNet](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Orientation-Aware_Semantic_Segmentation_on_Icosahedron_Spheres_ICCV_2019_paper.pdf) | Sup-Omni seg | An orientation-aware CNN framework for the icosahedron mesh|
@@ -31,3 +30,8 @@
 | 2021 | ITSC | [P2PDA](https://arxiv.org/pdf/2108.06383.pdf) | Dual backbones & designed attention module | ERP & 2D images individually | feature & logits |
 | 2021 | CVPR | [ECANet](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Capturing_Omni-Range_Context_for_Omnidirectional_Segmentation_CVPR_2021_paper.pdf) | Model ensemble | Unlabeled ERP & Labeled 2D / Panorama Segments | Pseudo labels |
 | 2022 | CVPR | [Trans4PASS](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf) | Trans4PASS & Mutual Prototype Memory | ERP & 2D images | Mutual Prototype Memory | 
+
+**UDA seg**
+| Year | Pub |  Method  | Task | Details / Motivation |
+| :----: | :----: | :----: | :----: | :----: | 
+| 2022 | CVPR | [CCDistill](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_Cross-Domain_Correlation_Distillation_for_Unsupervised_Domain_Adaptation_in_Nighttime_Semantic_CVPR_2022_paper.pdf) | UDA-Nighttime Semantic Seg | Cope with the inherent difference between datasets caused by the camera equipment and the urban style | 
