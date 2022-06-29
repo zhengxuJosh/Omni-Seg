@@ -22,3 +22,12 @@
 | 2021 | TPAMI | [Syherical](https://ieeexplore.ieee.org/abstract/document/9497715) | survey | - |
 | 2021 | TITS | [P2PDA](https://arxiv.org/pdf/2110.11062.pdf) | **UDA-Omni seg** | DA in output-, feature-, feature confidence spaces|
 | 2022 | CVPR | [Trans4PASS](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf) | **UDA-Omni seg** | The Deformable Patch Embedding (DPE) and the Deformable MLP (DMLP) module endow Trans4PASS with distortion awareness|
+
+**UDA-Omni seg**
+| Year | Pub |  Method  | Network Structure | Data Form / Augment | UDA method |
+| :----: | :----: | :----: | :----: | :----: | :----: | 
+| 2020 | TITS | [Omnisupervised](https://www.researchgate.net/profile/Kailun-Yang/publication/345419595_Omnisupervised_Omnidirectional_Semantic_Segmentation/links/609daf06458515c2658cb643/Omnisupervised-Omnidirectional-Semantic-Segmentation.pdf)| Teacher-Student Model | Unlabeled ERP & Labeled 2D / Panorama Segments | Pseudo labels |
+| 2021 | IV | [PRF](https://arxiv.org/pdf/2103.00868.pdf) | Pretrained of backbone & Supervised with two heads(classifiers)| ERP | Pretrained |
+| 2021 | ITSC | [P2PDA](https://arxiv.org/pdf/2108.06383.pdf) | Dual backbones & designed attention module | ERP & 2D images individually | feature & logits |
+| 2021 | CVPR | [ECANet](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Capturing_Omni-Range_Context_for_Omnidirectional_Segmentation_CVPR_2021_paper.pdf) | Model ensemble | Unlabeled ERP & Labeled 2D / Panorama Segments | Pseudo labels |
+| 2022 | CVPR | [Trans4PASS](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf) | Trans4PASS & Mutual Prototype Memory | ERP & 2D images | Mutual Prototype Memory | 
