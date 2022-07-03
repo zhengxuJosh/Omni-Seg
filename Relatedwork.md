@@ -31,7 +31,9 @@
 | 2021 | CVPR | [ECANet](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Capturing_Omni-Range_Context_for_Omnidirectional_Segmentation_CVPR_2021_paper.pdf) | Model ensemble | Unlabeled ERP & Labeled 2D / Panorama Segments | Pseudo labels |
 | 2022 | CVPR | [Trans4PASS](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf) | Trans4PASS & Mutual Prototype Memory | ERP & 2D images | Mutual Prototype Memory | 
 
-**UDA seg**
+**UDA**
 | Year | Pub |  Method  | Task | Details / Motivation |
 | :----: | :----: | :----: | :----: | :----: | 
 | 2022 | CVPR | [CCDistill](https://openaccess.thecvf.com/content/CVPR2022/papers/Gao_Cross-Domain_Correlation_Distillation_for_Unsupervised_Domain_Adaptation_in_Nighttime_Semantic_CVPR_2022_paper.pdf) | UDA-Nighttime Semantic Seg | Cope with the inherent difference between datasets caused by the camera equipment and the urban style | 
+| 2017 | TPAMI | [Optimal Transport for Domain Adaptation](https://arxiv.org/pdf/1507.00504.pdf) | Survey | - |
+| 2020 | CVPR | [RWOT](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Reliable_Weighted_Optimal_Transport_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.pdf)| UDA-Cls| Existing optimal transport in DA don't consider intra-domain structure of both domains |
